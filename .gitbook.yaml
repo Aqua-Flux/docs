@@ -4,5 +4,4 @@ structure:
   summary: SUMMARY.md
 
 redirects:
-  - from: /index
-    to: /
+  "/index": "/"
