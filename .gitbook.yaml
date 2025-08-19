@@ -3,5 +3,15 @@ structure:
   readme: README.md
   summary: SUMMARY.md
 
+theme:
+  palette:
+    primary: "#03c9e6"
+    secondary: "#2c4ed6"
+  style:
+    theme: dark
+
+customization:
+  css: custom.css
+
 redirects:
   "/index": "/"
